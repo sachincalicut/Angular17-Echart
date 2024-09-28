@@ -1,0 +1,110 @@
+ [
+  {
+    "10 Min Std Dev": "8",
+    "Time": "2.46",
+    "DateTime": "6/11/2001 12:00",
+    "10 Min Sampled Avg": "24.8"
+  },
+  {
+    "10 Min Std Dev": "9",
+    "Time": "1.87",
+    "DateTime": "6/11/2001 12:10",
+    "10 Min Sampled Avg": "24"
+  },
+  {
+    "10 Min Std Dev": "10",
+    "Time": "1.71",
+    "DateTime": "6/11/2001 12:20",
+    "10 Min Sampled Avg": "22.9"
+  },
+  {
+    "10 Min Std Dev": "11",
+    "Time": "1.76",
+    "DateTime": "6/11/2001 12:30",
+    "10 Min Sampled Avg": "17.9"
+  },
+  {
+    "10 Min Std Dev": "12",
+    "Time": "1.87",
+    "DateTime": "6/11/2001 12:40",
+    "10 Min Sampled Avg": "20.3"
+  },
+  {
+    "10 Min Std Dev": "13",
+    "Time": "1.66",
+    "DateTime": "6/11/2001 12:50",
+    "10 Min Sampled Avg": "21.5"
+  },
+  {
+    "10 Min Std Dev": "14",
+    "Time": "2.09",
+    "DateTime": "6/11/2001 13:00",
+    "10 Min Sampled Avg": "21.3"
+  },
+  {
+    "10 Min Std Dev": "15",
+    "Time": "1.6",
+    "DateTime": "6/11/2001 13:10",
+    "10 Min Sampled Avg": "21.3"
+  },
+  {
+    "10 Min Std Dev": "16",
+    "Time": "1.44",
+    "DateTime": "6/11/2001 13:20",
+    "10 Min Sampled Avg": "21.3"
+  },
+  {
+    "10 Min Std Dev": "17",
+    "Time": "3.69",
+    "DateTime": "6/11/2001 13:30",
+    "10 Min Sampled Avg": "22.4"
+  },
+  {
+    "10 Min Std Dev": "18",
+    "Time": "2.78",
+    "DateTime": "6/11/2001 13:40",
+    "10 Min Sampled Avg": "25.4"
+  },
+  {
+    "10 Min Std Dev": "19",
+    "Time": "2.14",
+    "DateTime": "6/11/2001 13:50",
+    "10 Min Sampled Avg": "25.9"
+  },
+  {
+    "10 Min Std Dev": "20",
+    "Time": "2.67",
+    "DateTime": "6/11/2001 14:00",
+    "10 Min Sampled Avg": "25.5"
+  },
+  {
+    "10 Min Std Dev": "21",
+    "Time": "2.57",
+    "DateTime": "6/11/2001 14:10",
+    "10 Min Sampled Avg": "25.7"
+  },
+  {
+    "10 Min Std Dev": "22",
+    "Time": "2.35",
+    "DateTime": "6/11/2001 14:20",
+    "10 Min Sampled Avg": "23.9"
+  },
+  {
+    "10 Min Std Dev": "23",
+    "Time": "2.67",
+    "DateTime": "6/11/2001 14:30",
+    "10 Min Sampled Avg": "24.7"
+  },
+  {
+    "10 Min Std Dev": "24",
+    "Time": "2.46",
+    "DateTime": "6/11/2001 14:40",
+    "10 Min Sampled Avg": "26.3"
+  },
+  {
+    "10 Min Std Dev": "25",
+    "Time": "2.73",
+    "DateTime": "6/11/2001 14:50",
+    "10 Min Sampled Avg": "26.9"
+  }
+]
